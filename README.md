@@ -3,7 +3,7 @@ A port to the BBC Micro of the original TRS-80 BASIC version of Scott Adams's te
 
 [**>> Play the game online <<**](http://bbcmicro.co.uk/jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-Pirate-Adventure/master/PA.ssd)
 
-## The files
+## The game files
 
 **dataout.bas** — A program (in BBC BASIC) that writes a datafile for the game Pirate Adventure. The datafile contains all the game data such as object locations, room descriptions, etc.
 
