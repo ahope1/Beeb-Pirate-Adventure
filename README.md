@@ -7,6 +7,6 @@ A port to the BBC Micro of the original TRS-80 BASIC version of Scott Adams's Pi
 
 **dataout.bas** — A program (in BBC BASIC) that writes a datafile for the game Pirate Adventure. The datafile contains all the game data such as object locations, room descriptions, etc.
 
-**basicinterpreter.bas** — The main game program (BBC BASIC). Reads in the datafile written by dataout.bas (above), takes player input, processes it, and prints responses on screen.
+**basicinterpreter.bas** — The main game program (BBC BASIC). Reads in the datafile written by dataout.bas (above), takes player input, processes it, and prints responses on screen. The program is presented in a format that can be copied and pasted into BeebEm. Comments (REMs) that don't have a line-number can be included in a copy-paste but won't take up any space in the RAM of the (emulated) Beeb. 
 
 **PA.ssd** — Binary file. A disc-image containing the playable game. For use in BBC Micro emulators such as BeebEm.
