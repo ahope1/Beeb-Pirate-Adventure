@@ -3,7 +3,7 @@ A port to the BBC Micro of the original TRS-80 BASIC version of Scott Adams's te
 
 [**>> Play the game online <<**](http://bbcmicro.co.uk/jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-Pirate-Adventure/master/PA.ssd)
 
-[More background info](https://ahopeful.wordpress.com/2020/08/25/scott-adamss-type-in-pirate-adventure-byte-1980/) at Retroactive Fiction. 
+([More background info](https://ahopeful.wordpress.com/2020/08/25/scott-adamss-type-in-pirate-adventure-byte-1980/) at Retroactive Fiction.)
 
 
 ## The game files
