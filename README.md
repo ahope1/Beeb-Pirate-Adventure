@@ -1,5 +1,5 @@
 # BBC Micro port of Scott Adams's classic TRS-80 game Pirate Adventure
-A port to the BBC Micro of the original TRS-80 BASIC version of Scott Adams's text adventure game Pirate Adventure, as published in [BYTE magazine](https://archive.org/details/byte-magazine-1980-12/page/n193/mode/1up) in 1980.
+A port to the BBC Micro of the TRS-80 BASIC version of Scott Adams's text adventure game Pirate Adventure, as published in [BYTE magazine](https://archive.org/details/byte-magazine-1980-12/page/n193/mode/1up) in 1980.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**>> Play the game online <<**](http://bbcmicro.co.uk/jsbeeb/play.php?cpuMultiplier=4&autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-Pirate-Adventure/master/PA.ssd)
 
