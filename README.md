@@ -3,7 +3,7 @@ A port to the BBC Micro of the TRS-80 BASIC version of Scott Adams's text advent
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**>> Play the game online <<**](http://bbcmicro.co.uk/jsbeeb/play.php?cpuMultiplier=4&autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-Pirate-Adventure/master/PA.ssd)
 
-([Background info](https://ahopeful.wordpress.com/2020/08/25/scott-adamss-type-in-pirate-adventure-byte-1980/) at Retroactive Fiction.)
+[Background info](https://ahopeful.wordpress.com/2020/08/25/scott-adamss-type-in-pirate-adventure-byte-1980/) at Retroactive Fiction.
 
 A BBC Micro port of the TRS-80 BASIC version of Scott Adams's [Adventureland](https://github.com/ahope1/Beeb-Adventureland) is also available.
 
